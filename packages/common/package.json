@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@ipld/dag-cbor": "^7.0.3",
-    "axios": "^0.24.0",
+    "axios": "^1.6.8",
     "multiformats": "^9.6.4",
     "pino": "^8.6.1",
     "zod": "^3.14.2"
