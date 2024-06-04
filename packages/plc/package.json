@@ -24,7 +24,7 @@
     "@atproto/crypto": "*",
     "@ipld/dag-cbor": "^7.0.3",
     "async-mutex": "^0.4.0",
-    "axios": "^0.27.2",
+    "axios": "^1.7.2",
     "better-sqlite3": "^7.6.2",
     "cors": "^2.8.5",
     "dotenv": "^16.0.2",
